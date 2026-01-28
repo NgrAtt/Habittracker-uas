@@ -3,7 +3,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 [![Material 3](https://img.shields.io/badge/Material--3-%236750A4.svg?style=for-the-badge&logo=materialdesign&logoColor=white)](https://m3.material.io/)
 
-**Habit tracker-productive adalah aplikasi pengatur tugas (Todo List) yang dirancang untuk meningkatkan produktivitas dengan antarmuka yang elegan dan fitur cerdas.
+Habit tracker-productive adalah aplikasi pengatur tugas (Todo List) yang dirancang untuk meningkatkan produktivitas dengan antarmuka yang elegan dan fitur cerdas.
 
 ---
 
