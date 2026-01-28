@@ -9,23 +9,17 @@
 
 ## ✨ Fitur Utama
 
-### 💎 Estetika Premium "Pink Ruby"
+### 💎 Estetika 
 - **Desain Modern**: Antarmuka berbasis Material 3 dengan palet warna "Pink Ruby" yang dinamis dan menarik.
-- **Gradien Ruby**: Transisi visual yang halus dari merah muda ke ruby yang memberikan kesan eksklusif.
-- **Glassmorphism**: Efek kartu yang tembus pandang dan modern untuk pengalaman visual yang lebih baik.
 
 ### 🧠 Fitur Cerdas & Produktivitas
 - **Kalender Interaktif**: Kelola tugas berdasarkan tanggal dengan kalender terintegrasi di panel utama.
 - **Panel Tugas Mendesak**: Deteksi otomatis tugas yang mendekati batas waktu dalam 24 jam ke depan.
 - **Pengingat & Notifikasi**: Jangan lewatkan tugas penting dengan sistem pengingat lokal.
 - **Pencarian & Sortir**: Temukan tugas dengan cepat berdasarkan kategori, judul, atau deskripsi. Sortir berdasarkan prioritas atau tenggat waktu.
-
-### 🧹 Kebersihan & Organisasi
 - **Swipe-to-Delete**: Hapus tugas dengan gerakan geser (swipe) yang intuitif.
 - **Bulk Cleanup**: Bersihkan semua tugas yang sudah selesai dengan satu klik untuk menjaga daftar tetap rapi.
-- **Kategori & Prioritas**: Kelompokkan tugas Anda dan tentukan skala prioritasnya secara profesional.
-
----
+- **Kategori & Prioritas**: Kelompokkan tugas Anda dan tentukan skala prioritasnya secara profesional
 
 ## 🚀 Teknologi yang Digunakan
 
