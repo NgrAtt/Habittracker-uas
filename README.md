@@ -1,18 +1,18 @@
-# Habit tracker-productive 💖💎
+# Habit tracker-productive
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 [![Material 3](https://img.shields.io/badge/Material--3-%236750A4.svg?style=for-the-badge&logo=materialdesign&logoColor=white)](https://m3.material.io/)
 
-**Habit tracker-productive (Pink Ruby Edition)** adalah aplikasi pengatur tugas (Todo List) kelas premium yang dirancang untuk meningkatkan produktivitas Anda dengan antarmuka yang elegan dan fitur cerdas.
+**Habit tracker-productive adalah aplikasi pengatur tugas (Todo List) yang dirancang untuk meningkatkan produktivitas dengan antarmuka yang elegan dan fitur cerdas.
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
-### 💎 Estetika 
+### Estetika 
 - **Desain Modern**: Antarmuka berbasis Material 3 dengan palet warna "Pink Ruby" yang dinamis dan menarik.
 
-### 🧠 Fitur Cerdas & Produktivitas
+### Fitur dan Produktivitas
 - **Kalender Interaktif**: Kelola tugas berdasarkan tanggal dengan kalender terintegrasi di panel utama.
 - **Panel Tugas Mendesak**: Deteksi otomatis tugas yang mendekati batas waktu dalam 24 jam ke depan.
 - **Pengingat & Notifikasi**: Jangan lewatkan tugas penting dengan sistem pengingat lokal.
@@ -21,7 +21,7 @@
 - **Bulk Cleanup**: Bersihkan semua tugas yang sudah selesai dengan satu klik untuk menjaga daftar tetap rapi.
 - **Kategori & Prioritas**: Kelompokkan tugas Anda dan tentukan skala prioritasnya secara profesional
 
-## 🚀 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **Flutter SDK**: Framework utama untuk performa lintas platform yang mulus.
 - **SQLite (sqflite)**: Penyimpanan data lokal yang aman dan cepat.
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Cara Penggunaan
+## Cara Penggunaan
 
 ### Prasyarat
 - Pastikan Anda sudah menginstal [Flutter SDK](https://docs.flutter.dev/get-started/install).
@@ -60,15 +60,3 @@
   ```bash
   flutter run -d chrome
   ```
-
----
-
-## 📝 Catatan Rilis (Pink Ruby Edition)
-Versi ini membawa perbaikan stabilitas besar untuk platform Web, termasuk:
-- Perbaikan layout `SliverAppBar`.
-- Optimalisasi render kalender pada layar lebar.
-- Implementasi *Loading State* untuk pengalaman pengguna yang lebih mulus.
-
----
-
-*Habit tracker-productive — Dibuat untuk mereka yang menghargai produktivitas dan keindahan.* 🚀💖✨
